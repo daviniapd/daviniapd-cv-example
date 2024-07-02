@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+#page {
+    background-color: rgb(249, 241, 232);
+    padding: 5%;
+}
+
+hr {
+    width: 5%;
+}
+
+h1, h3 {
+    color: rgb(8, 74, 52);
+}

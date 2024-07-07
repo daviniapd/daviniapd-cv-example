@@ -21,3 +21,14 @@ h2, h5 {
 table {
     margin: 10px;
 }
+
+ul {
+    list-style: none; 
+  }
+  
+  ul li:before {
+    content: "\25B6"; 
+    font-size: 1.2em;
+    margin-right: 0.5em;
+    color: rgb(8, 74, 52);
+  }

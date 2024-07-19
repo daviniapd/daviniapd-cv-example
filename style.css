@@ -5,9 +5,9 @@ body {
 
 #page {
     background-color: rgb(249, 241, 232);
-    padding: 5%;
-    height: 100vh;
-    width: 80vw;
+    padding: 2% 5%;
+    height: 100%;
+    width: 800px;
 }
 
 hr {
